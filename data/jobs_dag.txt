@@ -1,0 +1,11 @@
+# DAG with one negative weight (3 -> 4), single source 0
+6 9 directed
+0 1 5
+0 2 3
+1 3 6
+1 2 2
+2 3 7
+2 4 4
+2 5 2
+3 4 -5
+4 5 2
